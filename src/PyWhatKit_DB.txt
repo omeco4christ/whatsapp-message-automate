@@ -1,0 +1,30 @@
+Date: 12/5/2022
+Time: 17:44
+Phone Number: +2348035781521
+Message: Message 1
+--------------------
+Date: 12/5/2022
+Time: 17:51
+Phone Number: +2348035781521
+Message: Hello Mum!!!
+--------------------
+Date: 12/5/2022
+Time: 17:56
+Phone Number: +2348035781521
+Message: I am testing whatsapp automation
+--------------------
+Date: 12/5/2022
+Time: 18:5
+Group ID: JvOij7nYsIW5wMdX15TgyK
+Message: Ok
+--------------------
+Date: 12/5/2022
+Time: 18:9
+Group ID: JvOij7nYsIW5wMdX15TgyK
+Message: Ok, you will be coached separately
+--------------------
+Date: 12/5/2022
+Time: 18:11
+Group ID: JvOij7nYsIW5wMdX15TgyK
+Message: Ok, you will be coached separately
+--------------------
